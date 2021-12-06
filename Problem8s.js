@@ -1,6 +1,16 @@
 //Accending order sorting
 
-var arr = [1, 26, 48, 25, 3, 37, 44, 30, 17, 29];
+var arr = [
+  1, 
+  26, 
+  48, 
+  25, 
+  3, 
+  37, 
+  44, 
+  30, 
+  17, 
+  29];
 
 function bblSort(arr){
      
